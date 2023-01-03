@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>Git</h2>
+	<h3>h3태그 추가</h3>
 </body>
 </html>
